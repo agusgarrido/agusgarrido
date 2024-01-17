@@ -1,4 +1,4 @@
-# ¡Hola! 👋🏽 Bienvenido a mi GitHub
+# ¡Hola! 👋🏼 Bienvenido a mi GitHub
 
 ## Sobre mí
 - 📚 Actualmente estoy estudiando Licenciatura en Informática.
