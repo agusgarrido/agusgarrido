@@ -2,8 +2,8 @@
 
 ## Sobre mí
 - 📚 Actualmente estoy estudiando Licenciatura en Informática.
+- 💻 Trabajo como desarrollador backend.
 - 🔍 Soy una persona que aprende de forma autodidacta.
-- 💻 Me apasiona el desarrollo backend y estoy explorando diversas tecnologías.
 - 🌐 Podés conocer más sobre mi experiencia en mi perfil de [LinkedIn](https://www.linkedin.com/in/agustingarridoc/)
 
 ## Tecnologías que manejo
